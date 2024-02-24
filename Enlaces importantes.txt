@@ -1,0 +1,2 @@
+Enlace al zip del dataset personalizado: https://drive.google.com/file/d/107coK4V_kGAtMFo6IxmOb8I3p2j7uI67/view?usp=drive_link
+Enlace al notebook de Google Colab: https://colab.research.google.com/drive/187_drc2lyF4vWWUrLzndJLUURi9gNuN1?usp=drive_link
