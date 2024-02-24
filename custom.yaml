@@ -1,0 +1,27 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+train: D:/Download/ProyectDetection/data/data/images/train # train images (relative to 'path') 128 images
+val:D:/Download/ProyectDetection/data/data/images/validation # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: zona escolar
+  1: alto
+  2: ceda
+  3: 40km/h
+  4: 25km/h
+  5: curvas adl izq
+  6: curvas adl der
+  7: flecha direccional
+  8: curva peligrosa izq
+  9: curva peligrosa der
+  10: curva izq
+  11: curva der
+  12: puente en curva
+  13: estacionamiento con boleta
+  14: no virar izq
+  15: no virar der
+  16: estacionamiento para discapacitados
+  17: no estacionar
+
+
